@@ -1,0 +1,6 @@
+{
+  "name": "Bigode Cell Assistencia",
+  "description": "Assistência técnica de celulares em Vila Sílvia, especializada em troca de telas e baterias.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
